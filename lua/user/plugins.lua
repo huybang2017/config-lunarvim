@@ -1,5 +1,6 @@
 -- Additional Plugins
 lvim.plugins = {
+  "nyoom-engineering/oxocarbon.nvim",
   "gpanders/editorconfig.nvim",
   "sainnhe/gruvbox-material",
   "folke/tokyonight.nvim",
